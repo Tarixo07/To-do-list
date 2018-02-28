@@ -1,0 +1,26 @@
+body{
+	background-image: url("background.png");
+}
+h3{
+	font-size:50px;
+	color:#00204A;
+	text-align: center;
+	margin-right: 50%;
+}
+h5{
+	font-size: 40px;
+	color:#005792;
+	display: inline-block;
+}
+#task{
+	width:500px;
+}
+input{
+	height: 45px;
+	font-size: 30px;
+	width: 125px;
+}
+
+div{
+	
+}
